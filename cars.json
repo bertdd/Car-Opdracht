@@ -1,0 +1,46 @@
+[
+  {
+    "Model": null,
+    "Brand": null,
+    "Year": 0,
+    "Driver": {
+      "LicenseNumber": "12345",
+      "Name": "Emir",
+      "Age": 17
+    },
+    "Passengers": [
+    ]
+  },
+  {
+    "Model": null,
+    "Brand": null,
+    "Year": 0,
+    "Driver": {
+      "LicenseNumber": "54321",
+      "Name": "Ensar",
+      "Age": 18
+    },
+    "Passengers": [
+    ]
+  },
+  {
+    "Model": null,
+    "Brand": null,
+    "Year": 0,
+    "Driver": null,
+    "Passengers": [
+      {
+        "Name": "Yassine",
+        "Age": 17
+      },
+      {
+        "Name": "Bert",
+        "Age": 69
+      },
+      {
+        "Name": "Mustapha",
+        "Age": 18
+      }
+    ]
+  }
+]
